@@ -108,7 +108,11 @@ Array value of X:
 
 Array value of Y:
 
-![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/c517cd69-21d7-41bb-bf06-0fd7e29aa5de)
+![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/f8ecb3c8-5675-44e4-9d3c-8084c872df79)
+
+Exam 1 score graph:
+
+![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/5907df38-29ce-44bc-a65a-cb3d6d26eac9)
 
 Sigmoid function graph:
 
