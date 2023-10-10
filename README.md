@@ -101,31 +101,41 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
+
 Array value of X:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/ec0f738f-692f-48bb-8b66-2eb35f6ad5c9)
 
 Array value of Y:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/c517cd69-21d7-41bb-bf06-0fd7e29aa5de)
 
 Sigmoid function graph:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/932aafec-5e0e-4748-9cc7-acc66736b349)
 
 X_Train_grad value:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/7e7c5659-0054-4813-8689-f5512e9912f7)
 
 Y_Train_grad value:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/382739a1-957a-4b38-b40e-6ad77634d2f0)
 
 res.X:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/df09a65d-3a28-4638-adfa-e6493bf553dc)
 
 Decision boundary graph for exam score:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/2635371d-699b-4761-a8f7-7d497e03ab99)
 
 probability value:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/05ee2c1a-7d7c-4d76-85fd-1144de32ec36)
 
 Prediction value of mean:
+
 ![image](https://github.com/swethaselvarajm/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119525603/5a52d084-aa6e-48b2-8610-ab187bda74fd)
 
 ## Result:
